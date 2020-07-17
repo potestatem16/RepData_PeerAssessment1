@@ -1,5 +1,5 @@
 ---
-title: 'Course Project 1: Reprodicible Research'
+title: 'Course Project 1: Reproducible Research'
 author: "Manuel Diaz"
 output: 
   html_document:
